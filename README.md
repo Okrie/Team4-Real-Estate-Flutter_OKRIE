@@ -9,7 +9,7 @@ firebase를 통해서 데이터(관심목록,조건검색)를 보여줄 수 있�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,flutter,vscode,mysql,r,spring,sqlite,firebase,dart," />
+    <img src="https://skillicons.dev/icons?i=git,github,flutter,vscode,mysql,r,spring,python,sqlite,firebase,dart," />
   </a>
 </p>
 
